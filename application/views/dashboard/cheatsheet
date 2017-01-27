@@ -1,0 +1,14 @@
+<!-- Header -->
+<?php $this->load->view('dashboard/includes/header');?>
+<!-- Nav -->
+<?php $this->load->view('dashboard/includes/nav');?>
+
+<div class="container">
+	<div class="row">
+		
+		
+	</div>
+</div>
+
+<!-- Footer -->
+<?php $this->load->view('dashboard/includes/footer');?>
